@@ -1,0 +1,11 @@
+.rise-enabled h1 {
+    text-align: center;
+}
+
+.rise-enabled div#notebook {
+    background-image: url("css-pics/bd_logo.png"), url("css-pics/white-background.jpg");
+    background-position: 98% 2%, center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 100px 100px, cover;
+}
+
